@@ -47,10 +47,10 @@ Connect an Android device to your development machine.
 * 
 
 ## Screenshot 
-* Authentication Ui ![alt text](/images/img1.PNG)
- * Add email ![alt text](/images/img2.PNG)
- * Enter authentication password ![alt text](/images/img3.PNG)
-  * List of deals  ![alt text](/image4/img4.PNG)
- * Admin add new deal ![alt text](/images/img5.PNG)
+* Authentication Ui ![alt text](/images/img1.png)
+ * Add email ![alt text](/images/img2.png)
+ * Enter authentication password ![alt text](/images/img3.png)
+  * List of deals  ![alt text](/image4/img4.png)
+ * Admin add new deal ![alt text](/images/img5.png)
 # Acknowledgment
  © 2019, Travelmantics, maintained by  [Oscar Muigai](https://github.com/oscarpson/Travelmantics.git)
