@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "429751695472",
+    "firebase_url": "https://youthapp-3987d.firebaseio.com",
+    "project_id": "youthapp-3987d",
+    "storage_bucket": "youthapp-3987d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429751695472:android:9346a92f14edcaaa",
+        "android_client_info": {
+          "package_name": "com.oscar.Travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429751695472-j1sorq11ubn1aap8hgcjk6gga60u63vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oscar.Travelmantics",
+            "certificate_hash": "2a530896942a4693caf390bd984ef733b95831b7"
+          }
+        },
+        {
+          "client_id": "429751695472-v4nnhmvp3t8oo8tp0cl0n0ocrbvkk8e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ402A97itBF6SKMIjN-Q8RCFAQs8Liuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429751695472-v4nnhmvp3t8oo8tp0cl0n0ocrbvkk8e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429751695472:android:da9c4a59fbaae650",
+        "android_client_info": {
+          "package_name": "com.oscar.ke.sampleyouthapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429751695472-bf05hcine9tcg3dviotq4gra8ghneamn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oscar.ke.sampleyouthapp",
+            "certificate_hash": "2a530896942a4693caf390bd984ef733b95831b7"
+          }
+        },
+        {
+          "client_id": "429751695472-v4nnhmvp3t8oo8tp0cl0n0ocrbvkk8e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ402A97itBF6SKMIjN-Q8RCFAQs8Liuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429751695472-v4nnhmvp3t8oo8tp0cl0n0ocrbvkk8e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429751695472:android:ae1862a90cf75aac",
+        "android_client_info": {
+          "package_name": "ke.co.oscar.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429751695472-40vq0kf5lagqri7sj9qbvq2b2abiqc6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.oscar.travelmantics",
+            "certificate_hash": "2a530896942a4693caf390bd984ef733b95831b7"
+          }
+        },
+        {
+          "client_id": "429751695472-v4nnhmvp3t8oo8tp0cl0n0ocrbvkk8e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ402A97itBF6SKMIjN-Q8RCFAQs8Liuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429751695472-v4nnhmvp3t8oo8tp0cl0n0ocrbvkk8e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.oscar.Travelmantics.MainActivity">
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:title="@string/action_save"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_deals"
+        android:orderInCategory="100"
+        android:title="@string/action_deals"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_admin"
+        android:orderInCategory="100"
+        android:title="@string/action_admin"
+        app:showAsAction="never" />
+</menu>
